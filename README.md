@@ -21,7 +21,7 @@ My customized tmux config file...
 * Use \<alt\>-\<arrow up\> and \<alt\>-\<arrow down\> to switch vertical between planes.  
 * Use F2 for help (press 'q' to return).
 * Use F3 for a list of hot-keys (press 'q' to return).
-   
+\[2021/07/29 revise to 2.9+\]
 Tested on Fedora23+ and RHEL/Centos7+, tmux version 1.8+ and 2.1+
    
 ### Screenshot example
